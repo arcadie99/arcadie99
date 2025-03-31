@@ -2,7 +2,7 @@
 
 <!-- About Section -->
 
-<summary><b>👤 About Me</b></summary>
+## <b>👤 About Me</b>
 <p>
 <blockquote>
 I software engineer based in MD. And I love writing code and learn the CS! 💻
@@ -22,7 +22,7 @@ When I'm not at the keyboard, I like sports, Reading, Traveling
 
 <!-- Tech Stack -->  
 
- <summary><b>🛠️ Tech Stack</b></summary>
+ ## <b>🛠️ Tech Stack</b>
  <p>
 
 | **Category** | **Technologies** |
