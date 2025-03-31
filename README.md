@@ -1,9 +1,9 @@
 # Rosca Arcadie 👋
 
 <!-- About Section -->
-<details>
-  <summary><b>👤 About Me</b></summary>
-    <p>
+
+<summary><b>👤 About Me</b></summary>
+<p>
 <blockquote>
 I software engineer based in MD. And I love writing code and learn the CS! 💻
 
@@ -16,14 +16,14 @@ When I'm not at the keyboard, I like sports, Reading, Traveling
 
 ----
 
-  </p>
-</details>
+</p>
+
 
 
 <!-- Tech Stack -->  
-<details>
-  <summary><b>🛠️ Tech Stack</b></summary>
-    <p>
+
+ <summary><b>🛠️ Tech Stack</b></summary>
+ <p>
 
 | **Category** | **Technologies** |
 | - | - |
@@ -39,8 +39,7 @@ When I'm not at the keyboard, I like sports, Reading, Traveling
 **Other** | [![Kannel](https://img.shields.io/static/v1?label=&message=Kannel&color=FF6600&logo=linux&logoColor=white)](https://www.kannel.org/) [![GSM](https://img.shields.io/static/v1?label=&message=GSM&color=008080&logo=gsm&logoColor=white)](https://en.wikipedia.org/wiki/GSM)
 
 
-----      
+----
 
-  </p>
-</details>
+</p>
 
